@@ -1,7 +1,7 @@
 # Stress Detection
 
 ## Overview
-This project predicts stress levels using physiological features like heart rate, respiration, blood oxygen level, etc.
+This project predicts stress levels using physiological features like heart rate, respiration, blood oxygen level, etc
 
 ## Dataset
 - Source: Kaggle
